@@ -1,0 +1,5 @@
+package com.oracle.shared_database_pattern;
+
+public interface BookRepository {
+
+}

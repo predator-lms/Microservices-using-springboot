@@ -1,0 +1,9 @@
+package com.oracle.nosql_table_per_class_service;
+
+public class CarController {
+
+	public CarController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

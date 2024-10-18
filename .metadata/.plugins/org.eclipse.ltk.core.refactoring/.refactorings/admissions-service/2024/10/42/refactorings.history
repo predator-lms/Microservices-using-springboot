@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.oracle.admissions_service.AdmissionResource&apos; to &apos;AdmissionsResource&apos;&#x0D;&#x0A;- Original project: &apos;admissions-service&apos;&#x0D;&#x0A;- Original element: &apos;com.oracle.admissions_service.AdmissionResource&apos;&#x0D;&#x0A;- Renamed element: &apos;com.oracle.admissions_service.AdmissionsResource&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AdmissionResource&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.oracle.admissions_service{AdmissionResource.java[AdmissionResource" matchStrategy="1" name="AdmissionsResource" qualified="false" references="true" similarDeclarations="false" stamp="1728966185256" textual="false" version="1.0"/>
+</session>

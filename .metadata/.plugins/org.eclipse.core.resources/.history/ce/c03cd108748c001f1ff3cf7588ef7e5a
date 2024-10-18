@@ -1,0 +1,9 @@
+package com.oracle.movie_catalog_service.services;
+
+public class MovieInfo {
+
+	public MovieInfo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

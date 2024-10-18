@@ -1,0 +1,9 @@
+package com.oracle.feign_demo_service.controller;
+
+public class DemoController {
+
+	public DemoController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

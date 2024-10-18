@@ -1,0 +1,2 @@
+spring.application.name=FirstExample
+server.port=9000

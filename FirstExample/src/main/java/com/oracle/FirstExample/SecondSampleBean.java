@@ -1,0 +1,24 @@
+package com.oracle.FirstExample;
+
+public class SecondSampleBean {
+	private String name;
+
+	public SecondSampleBean(String name) {
+		super();
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "SecondSampleBean [name=" + name + "]";
+	}
+	
+}

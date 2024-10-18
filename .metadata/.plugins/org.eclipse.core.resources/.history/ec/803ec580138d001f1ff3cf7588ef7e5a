@@ -1,0 +1,9 @@
+package com.oracle.resilience4j_circuitbreaker_service;
+
+public class HttpBinService {
+
+	public HttpBinService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

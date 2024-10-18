@@ -1,0 +1,13 @@
+package com.oracle.shared_database_pattern;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SharedDatabasePatternApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SharedDatabasePatternApplication.class, args);
+	}
+
+}

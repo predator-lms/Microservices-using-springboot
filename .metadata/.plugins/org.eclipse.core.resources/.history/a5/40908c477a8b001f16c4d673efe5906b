@@ -1,0 +1,5 @@
+package com.oracle.property_access_service.resources;
+
+public class PropertyFileAccessControllerResource {
+
+}

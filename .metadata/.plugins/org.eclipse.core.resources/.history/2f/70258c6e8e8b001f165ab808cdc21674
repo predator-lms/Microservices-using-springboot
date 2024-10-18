@@ -1,0 +1,29 @@
+package com.oracle.movie_catalog_service.resources;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+import com.oracle.movie_catalog_service.models.CatalogItem;
+
+@RestController
+@RequestMapping("/catalog")
+public class CatalogResource {
+
+	public CatalogResource() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Autowired
+	private RestTemplate restTemplate;
+	
+	@RequestMapping("/{userId")
+	public List<CatalogItem> getCatalog(@PathVariable("userId") String userId){
+		UserRating
+	}
+
+}

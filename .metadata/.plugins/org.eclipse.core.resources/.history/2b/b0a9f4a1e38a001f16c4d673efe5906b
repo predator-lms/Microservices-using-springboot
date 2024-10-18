@@ -1,0 +1,31 @@
+logging:
+  level:
+    .: error
+    org.springframework: ERROR
+    com.ibm: ERROR
+
+spring:
+  profiles:
+    default : "dev"
+  main:
+    banner-mode: "off"
+
+server:
+  email: default@ibm.com
+
+---
+
+spring:
+  config: 
+    activate :
+      on-profile : "prod"
+server:
+  email: prod@ibm.com
+  cluster:
+    - ip: 192.168.0.1
+      path: /app1
+    - ip: 192.168.0.2
+      path: /app2
+    - ip: 192.168.0.3
+      path: /app3
+

@@ -1,0 +1,13 @@
+package com.oracle.Controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MyFirstApp {
+	
+	@RequestMapping("/mywebapp")
+	public String myWebApp() {
+		return "My First Springboot project";
+	}
+}

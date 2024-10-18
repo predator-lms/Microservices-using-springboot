@@ -1,0 +1,9 @@
+package com.oracle.feign_client_service.util;
+
+public class FeignServiceUtil {
+
+	public FeignServiceUtil() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

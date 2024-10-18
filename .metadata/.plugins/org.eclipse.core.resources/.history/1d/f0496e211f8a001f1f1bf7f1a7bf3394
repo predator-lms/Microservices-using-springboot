@@ -1,0 +1,5 @@
+package com.oracle.pathology_services;
+
+public class PathologyResource {
+
+}

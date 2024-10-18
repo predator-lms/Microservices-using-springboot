@@ -1,0 +1,9 @@
+package com.oracle.rating_data_service.resource;
+
+public class RatingResource {
+
+	public RatingResource() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

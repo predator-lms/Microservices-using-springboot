@@ -1,0 +1,9 @@
+package com.oracle.shared_database_pattern;
+
+public class BookRepository {
+
+	public BookRepository() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

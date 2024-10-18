@@ -1,0 +1,8 @@
+package com.oracle.FirstExample;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class UserDaoService {
+	
+}

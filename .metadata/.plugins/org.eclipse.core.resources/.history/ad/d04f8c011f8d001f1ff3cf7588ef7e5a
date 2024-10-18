@@ -1,0 +1,9 @@
+package com.oracle.feign_client_service.controller;
+
+public class FeignController {
+
+	public FeignController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

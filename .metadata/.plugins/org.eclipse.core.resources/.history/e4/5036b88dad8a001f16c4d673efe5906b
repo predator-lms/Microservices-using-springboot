@@ -1,0 +1,5 @@
+package com.oracle.admissions_service;
+
+public class AdmissionsResource {
+
+}

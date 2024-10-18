@@ -1,0 +1,30 @@
+package com.oracle.FirstExample;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class SecondSampleBean {
+	String name;
+
+	public SecondSampleBean(String name) {
+		super();
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "SecondSampleBean [name=" + name + "]";
+	}
+	
+	@GetMapping("/secondSampleBean")
+	public SecondSampleBean secondBean() {
+		return new SecondSampleBean("Lalit");
+	}
+}

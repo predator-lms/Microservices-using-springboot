@@ -1,0 +1,5 @@
+package com.oracle.movie_info_service.models;
+
+public class MovieSummary {
+
+}

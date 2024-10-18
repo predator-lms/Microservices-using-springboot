@@ -1,0 +1,9 @@
+package com.oracle.movie_catalog_service.resources;
+
+public class CatalogResource {
+
+	public CatalogResource() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.oracle.resilience4j_circuitbreaker_service;
+
+public class DemoController {
+
+	public DemoController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

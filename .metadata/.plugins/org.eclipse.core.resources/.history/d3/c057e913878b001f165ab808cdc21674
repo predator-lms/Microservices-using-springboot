@@ -1,0 +1,9 @@
+package com.oracle.rating_data_service.models;
+
+public class UserRating {
+
+	public UserRating() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

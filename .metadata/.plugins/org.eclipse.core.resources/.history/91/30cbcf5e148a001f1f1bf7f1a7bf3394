@@ -1,0 +1,7 @@
+spring.application.name=FirstExample
+
+oracleprops.greeting=Thank you and visit again!!!
+
+server.port=9000
+
+server.servlet.context-path==/oracleblr

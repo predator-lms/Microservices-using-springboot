@@ -1,0 +1,9 @@
+spring :
+  application :
+    name: resilience4j-circuitbreaker-service
+		
+managements :
+  endpoints :
+    web :
+      exposure :
+        include : "*"
