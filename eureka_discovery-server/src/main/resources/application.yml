@@ -1,0 +1,13 @@
+spring :
+  application: 
+    name : eureka_discovery-server
+
+server :
+  port : 9083
+
+eureka :
+  client :
+    registerWithEureka : false
+    fetchRegistry : false
+    service-url : 
+      default-zone : http://localhost:9083/eureka

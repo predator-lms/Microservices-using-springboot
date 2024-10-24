@@ -1,0 +1,9 @@
+package com.oracle.feign_client_service.config;
+
+public class WebClientConfig {
+
+	public WebClientConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.oracle;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class SpringCloudConfig {
+
+	public SpringCloudConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

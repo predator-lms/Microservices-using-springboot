@@ -1,0 +1,9 @@
+package com.oracle;
+
+public class SpringCloudConfig {
+
+	public SpringCloudConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
